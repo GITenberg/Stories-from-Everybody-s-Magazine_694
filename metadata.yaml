@@ -1,0 +1,34 @@
+_repo: Stories-from-Everybody-s-Magazine_694
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PN'
+tableOfContents: 'The laying of the monster, by Garrison -- The gold brick and the
+  gold mine: Fake Mining Schemes that Steal the People''s Savings, by Hough -- How
+  the man came to Twinkling Island, by Chater -- Untitled, by MacGowan and Cooke --
+  The trial balance, by Foster -- The Painter of "Diana of the Tides", by Eaton --
+  The heathen, by London -- The question "how?", by Thomson -- Who would be a young
+  lady, by Cleghorn -- Instead of an article: About Pittsburg and, Incidentally, about
+  Editing a Magazine -- The women of to-morrow part 1, 2, 3 & 4, by Hard -- Law and
+  Order, by O. Henry -- In a far township, by Cleghorn -- Lassoing Wild Animals In
+  Africa, part I, II & III, by Scull -- I''ll niver go home again!, by Stringer --
+  The Poison Bugaboo, by Adams -- The Homely Heroine, by  Ferber -- In a mission garden
+  (Santa Barbara), by Urmy -- The watchman, by  Montgomery -- The man who made good,
+  by Stringer -- An open mind: William James, by Lippmann.'
+title: Stories from Everybody's Magazine
+url: http://www.gutenberg.org/ebooks/694
