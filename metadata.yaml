@@ -1,5 +1,5 @@
 _repo: Stories-from-Everybody-s-Magazine_694
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ subjects:
 - !lcsh 'Fiction'
 - !lcsh 'Short stories'
 - !lcc 'PN'
+- GITenberg
 tableOfContents: 'The laying of the monster, by Garrison -- The gold brick and the
   gold mine: Fake Mining Schemes that Steal the People''s Savings, by Hough -- How
   the man came to Twinkling Island, by Chater -- Untitled, by MacGowan and Cooke --
